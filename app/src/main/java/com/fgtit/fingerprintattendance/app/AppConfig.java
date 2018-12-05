@@ -1,7 +1,7 @@
 package com.fgtit.fingerprintattendance.app;
 
 /**
- * Created by letha on 9/5/2016.
+ * Created by michael.
  */
 public class AppConfig {
 
