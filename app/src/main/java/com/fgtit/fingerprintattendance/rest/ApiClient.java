@@ -12,7 +12,7 @@ import static com.fgtit.fingerprintattendance.app.AppConfig.*;
 
 
 /**
- * Created by letha on 9/14/2016.
+ * Created by michael on 9/14/2016.
  */
 public class ApiClient {
 
