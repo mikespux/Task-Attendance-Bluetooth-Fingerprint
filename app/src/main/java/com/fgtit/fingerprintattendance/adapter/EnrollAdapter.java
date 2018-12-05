@@ -20,7 +20,7 @@ import com.fgtit.fingerprintattendance.widget.RoundImage;
 import java.util.List;
 
 /**
- * Created by ibrahim.abdulkadir@bizzdesk.com on 8/1/2016.
+ * Created by michael.
  */
 public class EnrollAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>  {
 
