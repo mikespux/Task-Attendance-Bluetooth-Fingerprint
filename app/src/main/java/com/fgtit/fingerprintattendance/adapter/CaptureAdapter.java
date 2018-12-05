@@ -15,7 +15,7 @@ import com.fgtit.fingerprintattendance.holder.CaptureHolder;
 import java.util.List;
 
 /**
- * Created by ibrahim.abdulkadir@bizzdesk.com on 8/1/2016.
+ * Created by michael.
  */
 public class CaptureAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>  {
 
